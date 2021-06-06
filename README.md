@@ -1,4 +1,4 @@
-'''
+```
 # Longest-Consecutive-Sequence-Solution
 class Solution {
 public:
@@ -26,4 +26,4 @@ public:
         return maxi;
     }
 };
-'''
+```
